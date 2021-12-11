@@ -3,11 +3,16 @@
 
 # By Cole Blakeman.
 
-# Markdown 
+# Markdown Tutorial Summary
 
-This tutorial is how to use Markdown. I will cover the different commands and necessary information needed to be able to use Markdown for projects such as this. I will be addressing the markdown commands I used in this project here, for a full tutorial of all the commands just go to the link below.
+This tutorial is how to use Markdown. I will cover the different commands and necessary information needed to be able to use Markdown for projects such as this. I will be addressing the markdown commands I used in this project here, for a full tutorial of all the commands I have added multiple links below.
 
-[Markdown Tutorial Online](https://www.markdownguide.org/getting-started)
+[Markdown Tutorial 1 Online](https://www.markdownguide.org/getting-started)
+[Markdown Tutorial 2 Online(https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
+
+# Audience
+
+This is for Markdown begginers looking to make simple markdown pages for a school project, work, etc. This is not for professionals and only covers the basics to allow someone to still make a readable markdown page. 
 
 # Importance of Markdown
 
