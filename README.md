@@ -5,7 +5,7 @@
 
 # Markdown 
 
-This tutorial is how to use Markdown. I will cover the different commands and necessary information needed to be able to use Markdown for projects such as this. I will only address the markdown commands I used in this project here, for a full tutorial of all the commands just go to the link below.
+This tutorial is how to use Markdown. I will cover the different commands and necessary information needed to be able to use Markdown for projects such as this. I will be addressing the markdown commands I used in this project here, for a full tutorial of all the commands just go to the link below.
 
 [Markdown Tutorial Online](https://www.markdownguide.org/getting-started)
 
