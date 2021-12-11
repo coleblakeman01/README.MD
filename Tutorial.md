@@ -1,6 +1,6 @@
 # Markdown Tutorial
 
-This tutorial will cover the different Markdown commands used in creating this project
+This tutorial is written by me and will cover the different Markdown commands used in creating this project
 
 # Titles
 
