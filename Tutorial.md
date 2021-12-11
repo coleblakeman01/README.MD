@@ -21,3 +21,4 @@ Below is a link from one of my past Markdown projects.
 [My chess path](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess.md)
 
 # Thanks for reading!! 
+
