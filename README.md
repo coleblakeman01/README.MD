@@ -8,7 +8,8 @@
 This tutorial is how to use Markdown. I will cover the different commands and necessary information needed to be able to use Markdown for projects such as this. I will be addressing the markdown commands I used in this project here, for a full tutorial of all the commands I have added multiple links below.
 
 [Markdown Tutorial 1 Online](https://www.markdownguide.org/getting-started)
-[Markdown Tutorial 2 Online(https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
+
+[Markdown Tutorial 2 Online](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
 
 # Audience
 
