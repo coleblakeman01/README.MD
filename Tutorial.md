@@ -12,4 +12,8 @@ Text such as this is very easy because it is commandless. You can simply start t
 
 # Links
 
-Links are start with brackets to showcase the desired display word, if you want the link to 
+Links start with brackets to showcase the desired display word. If you want people to click on the words, "Show me more about turtles" to see an article about turtles, then the markdown link should begin with [Show me more about turtles]
+
+To insert the link for 
+
+[Cole's Markdown Tutorial](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess.md)
