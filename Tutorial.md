@@ -20,6 +20,10 @@ Below is a link from one of my past Markdown projects.
 
 [My chess path](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess.md)
 
+# Images
+
+Images must start with the ![Display text] , the Display Text is still necessary for images because sometimes images may not load and the reader can still see its title. Following should be the (path/to/image.png "Text to show"), images work similarly to links. The difference is that Images have a alt text for the screen reader and a text to show during the mouseover of the reader.
+
 # Thanks for reading!! 
 
 [Click to go back to the homepage](https://github.com/coleblakeman01/README.MD.git)
