@@ -18,6 +18,6 @@ Markdown is nice because it is simple to use and can create easy to understand t
 Below is my Markdown tutorial that focuses on Markdown commands used in this project.
 
 
-1. [Cole's Markdown Tutorial](https://github.com/coleblakeman01/Final-Project-IT-1000/blob/main/Chess.md)
+1. [Cole's Markdown Tutorial](https://github.com/coleblakeman01/TUTORIAL.MD.git)
 
 
